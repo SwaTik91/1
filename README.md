@@ -1,6 +1,6 @@
 # MishpuchaTech
 
-**MishpuchaTech** (от ивритского "мишпаха" - семья) - investor-ready концепт закрытой цифровой платформы для горско-еврейской общины.
+**MishpuchaTech** (от ивритского "мишпаха" - семья) - investor-ready и demo-ready концепт закрытой цифровой платформы для горско-еврейской общины.
 
 ## Слоган
 
@@ -17,6 +17,7 @@ MishpuchaTech строит вертикальную trust-based social platform 
 - Одностраничный investor-facing landing page на русском языке
 - Усиленное pitch positioning для презентации инвесторам и партнерам
 - Блоки с product thesis, moat, go-to-market, monetization и roadmap
+- Demo-ready showcase с mockup-экранами продукта
 - Адаптивный интерфейс для демонстрации идеи в браузере
 
 ## Ключевые продуктовые модули
@@ -65,13 +66,13 @@ MishpuchaTech строит вертикальную trust-based social platform 
 
 ## Структура проекта
 
-- `index.html` - investor-ready landing page
-- `styles.css` - стили, визуальная система и адаптивность
+- `index.html` - investor-ready landing page с demo-ready mockup-блоками
+- `styles.css` - стили, визуальная система, mockup UI и адаптивность
 - `script.js` - мобильная навигация
 
 ## Следующий продуктовый слой
 
 - Перевести лендинг в полноценный pitch website на React/Next.js
-- Добавить product mockups, user flows и founder/investor FAQ
+- Добавить интерактивные product mockups, user flows и founder/investor FAQ
 - Подготовить demo кабинета пользователя, групп и семейного древа
 - Спроектировать backend для приватности, инвайтов, графа родства и платежей
